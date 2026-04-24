@@ -1,1 +1,1 @@
-# Numerical-Optimization-Dynamic-Lasso
+# Project: Theme 3\nRun `python main.py` to execute the pipeline.
